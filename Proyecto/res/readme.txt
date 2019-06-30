@@ -1,1 +1,0 @@
-This folder must contain all the images for the project.
